@@ -19,5 +19,5 @@ def selectionSort(arr):
 
     return newArr
 
-print(selectionSort([5, 3, 6, 2, 10]))
+print(selectionSort([3, 7, 1, 2, 8, 4, 5]))
 
