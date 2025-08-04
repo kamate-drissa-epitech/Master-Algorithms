@@ -21,3 +21,4 @@ def selectionSort(arr):
 
 print(selectionSort([3, 7, 1, 2, 8, 4, 5]))
 
+
